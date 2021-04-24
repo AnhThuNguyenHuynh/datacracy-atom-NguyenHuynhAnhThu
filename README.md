@@ -1,4 +1,21 @@
-# datacracy-atom-NguyenHuynhAnhTh
+Task 1: Analytics on Google Spreadsheet: https://drive.google.com/file/d/1t4fNTJoF6G-xltiOPfFJXn9N1W7SKBln/view?usp=sharing
+
+
+Task 2: Python Programming:https://colab.research.google.com/drive/12Fs93gWDfo5iZyt3K_ZVsqDR_Pqj6pwh?usp=sharing
+
+        Flow Control - A Short Program: Rock, Paper, Scissors : https://colab.research.google.com/drive/1qekC78SYB2dBldZAI_ygniMmGC_8NRSh?usp=sharing
+        
+        Functions - A Short Program: Zigzag: https://colab.research.google.com/drive/1Wpbps2BFw1iTplsK1S6hDO9nsomPFZJn?usp=sharing
+        
+        Lists - A Short Program: Conway’s Game of Life:https://colab.research.google.com/drive/1mr2RyVWO7LOSTTXcpo5H2mklpSe5UPgq?usp=sharing
+        
+        Dictionaries & Structuring Data - Tic-Tac-Toe Board: https://colab.research.google.com/drive/1OHxAAeXd-JHnzEhDGxVwIhgi3HkIZLN0?usp=sharing
+
+
+
+Task 3:
+
+# datacracy-atom-NguyenHuynhAnhThu
 1/Github dùng để làm gì?
 GitHub là dịch vụ server quản lý nhiều phiên bản code, giúp lưu trữ chúng và cả nội dung dự án của hai hay nhiều tài khoản của lập trình viên.
 GitHub được sử dụng chủ yếu cho dự án có nhiều người cùng hợp tác và cần giám sát toàn bộ thay đổi của dự án.
