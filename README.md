@@ -13,3 +13,4 @@ Một fork là một bản copy của một repository (Kho chứa source code c
 
 4/Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?
 Branch trong github dịch ra là chi nhánh ^^, nó sẽ giúp bạn làm việc trên các phiên bản khác nhau của kho lưu trữ cùng một lúc.
+Commit là thao tác ghi lại việc thêm/thay đổi file hay thư mục vào kho lưu trữ. Theo đó, kho sẽ tạo thư mục commit hoặc revision để ghi nhận những thay đổi này. Các commit nối tiếp nhau theo thứ tự thời gian chỉnh sửa. Vì vậy, chỉ cần nhìn vào đây, bạn sẽ biết được lịch sử chỉnh sửa và thay đổi các file. Mỗi commit đều yêu cầu phải có commit message giúp ghi nhận sự thay đổi theo tiến trình update của lập trình viên.
