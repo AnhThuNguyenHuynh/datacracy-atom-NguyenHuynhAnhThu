@@ -1,7 +1,7 @@
 Task 1: Analytics on Google Spreadsheet: https://drive.google.com/file/d/1t4fNTJoF6G-xltiOPfFJXn9N1W7SKBln/view?usp=sharing
 
 
-Task 2.1: Python Programming:https://colab.research.google.com/drive/12Fs93gWDfo5iZyt3K_ZVsqDR_Pqj6pwh?usp=sharing
+Task 2.1: Python Basic - Your First Program:https://colab.research.google.com/drive/12Fs93gWDfo5iZyt3K_ZVsqDR_Pqj6pwh?usp=sharing
 
 Task 2.2: Flow Control - A Short Program: Rock, Paper, Scissors : https://colab.research.google.com/drive/1qekC78SYB2dBldZAI_ygniMmGC_8NRSh?usp=sharing       
         
